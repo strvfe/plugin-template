@@ -1,0 +1,8 @@
+name: example
+version: 0.0.1-SNAPSHOT
+main: me.strafe.plugin.Plugin
+author: strafe_
+commands:
+  example:
+    description: Example command
+    usage: /example
